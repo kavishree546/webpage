@@ -1,0 +1,143 @@
+.background{
+              background-image: url("home_image.png");
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size:cover;
+              background-position: center;
+              margin-right: 100px;
+              height:100%;
+              width:100%;
+              background-repeat: no-repeat;
+  
+                 }
+            .mainheader{
+                margin-top:0px;
+                display:flex;
+                padding-top:25px;
+            }
+            ul{
+                list-style-type:None;
+                margin: 0 0 0 0;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 435px;
+            }
+
+            ul li {
+              float:left;
+                  }
+            li a{
+              display:block;
+              padding:6px 22px;
+              color:white;
+                }
+           li a:hover{
+             
+             text-decoration: underline;
+             text-decoration-color: white;
+           }
+           .header1{
+            margin:10px 50px 0px 190px;
+            padding:10px 20px 0px 20px;
+            text-align:centre;
+        
+         
+            line-height:0.0;
+           }
+           .header2{
+            margin:0px 0px 0px 270px;
+            padding:0px 0px 0px 20px;
+            text-align:centre;
+            line-height:1.2;
+            
+           }
+           
+           .bookbutton{
+            list-style-type:None;
+                margin: 0px;
+                padding-top: 0px;
+                padding-right: 300px;
+                padding-bottom: 0px;
+                padding-left: 450px;
+                
+                
+           }
+           .watchbutton{
+            margin-top: 8.5px;
+                padding-top: 0px;
+                padding-right: 50px;
+                padding-bottom: 0px;
+                padding-left: 20px;
+           }
+           .button1{
+            display:flex;
+            color:white;
+           }
+           .planttype{
+               margin-top:60px;
+               margin-left:0px;
+               padding:0px 0px  0px 2px ;
+
+           }
+           .plantype{
+            margin-top:93px;
+            
+           }
+           .planttypeflex{
+            display:flex;
+           }
+           .container{
+            display:flex;
+            justify-content: space-around;
+            
+            padding: 10px;
+           margin:50px;
+           flex-direction: row;
+           }
+           .box {
+  background-color:rgba(231, 218, 218, 0.25);
+  padding: 30px;
+  margin-top: 20px;
+  margin-right:40px;
+  margin-bottom:40px;
+  margin-left:40px;
+
+  border: 0.5px solid rgb(198, 195, 195);
+  border-radius:2px solid rgb(199, 188, 188);
+  flex: 1;
+  
+}
+  .offer-section1{
+    display:flex;
+    margin:20px;
+    
+    gap:20px;
+    justify-content: space-around;
+    flex-direction: row;
+  }
+  .box-offer{
+      
+  background-color: white;
+  
+   box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  
+  }
+  .box-container{
+    display:flex;
+  }
+   .box-container img {
+  width: 100%;
+  height: auto;
+  
+}
+.bookbutton2{
+            list-style-type:None;
+                margin: 0px;
+                padding-top: 23px;
+                padding-right: 10px;
+                padding-bottom: 0px;
+                padding-left: 23px;
+                color:white;
+                
+           }
